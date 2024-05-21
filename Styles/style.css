@@ -67,17 +67,22 @@ p{
     
 }
 img{
-    border-top-left-radius: 200px;
-    border-top-right-radius: 200px;
+    
     padding-top: 100px;
     padding-left: 30px;
     padding-right: 30px;
 }
 .padding-img{
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
     width: 800px;
     height: 300px;
     padding-right: 70px;
     padding-left: 70px;
+}
+.padding-adjust{
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
 }
 
 .text-trackthar{
@@ -96,19 +101,113 @@ img{
 .text-padding{
     font-size: 28px;
     padding-right: 440px;
+    padding-top: 200px;
 }
 .right-text-padding{
     padding-left: 250px;
 }
+.lin-right{
+    padding-left: 320px;
+    margin-top: -10px;
+    
+   
+}
 .btn-scend{
-    padding-left: 400px;
+    padding-left: 380px;
 }
 .img-right{
     display: flex;
     margin-left: 800px;
-    margin-top: -300px;
+    margin-top: -380px;
 }
 
 .color{
     color: #E55473;
+}
+.down-pad{
+    padding-top: 90px;
+}
+h2{
+    margin-left: 600px;
+}
+.display-flexs{
+  padding-left: 450px;
+}
+.line-centar{
+    padding-left: 540px;
+    padding-bottom: 60px;
+    margin-top: -10px;
+}
+.img-deagin{
+    border-radius: none;
+}
+.img-deagin{
+   width: 280px;
+   margin: -22px;
+
+    
+}
+.img-centar{
+    display: flex;
+    padding-left: 80px;
+    margin-top: -120px;
+}
+/* bottom-image style */
+.bottom-img{
+    padding-left: 85px;
+    padding-top: 150px;  
+}
+.text-img-top{
+    font-size: 40px;
+    margin-top: -380px;
+}
+.pword-centar{
+    font-size: 16px;
+    margin-left: 560px;
+    margin-top: -20px;
+}
+input{
+    width: 500px;
+    height: 44px;
+    font-size: 15px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: none;
+}
+.email-box{
+    padding-top: 20px;
+    padding-left: 340px;
+}
+.button-style{
+    margin-top: -77px;
+    padding-left: 875px;
+}
+/* fotter degine */
+.fotter-desgin{
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.924);
+    height: 350px;
+}
+.white-color{
+    font-size: 32px;
+    color: white;
+    margin-left: -7px;
+}
+.paragharf{
+    font-size: 13px;
+    margin-left: 450px;
+    color: rgba(255, 255, 255, 0.649);
+}
+.paragharf-two{
+    font-size: 13px;
+    margin-top: -7px;
+    margin-left: 555px;
+    color: rgba(255, 255, 255, 0.661);
+}
+.paragharf-three{
+    margin-top: 20px;
+    margin-left: 560px;
+    color: rgba(255, 255, 255, 0.39);
+
 }
